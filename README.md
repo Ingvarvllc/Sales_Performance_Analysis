@@ -2,6 +2,8 @@
 
 ### Project Overview 
 
+---
+
 The **Sales Performance Analysis Dashboard** is designed to provide comprehensive insights into the sales and profitability of a business across various dimensions, including product categories, time periods, geographic regions, and customer segments. The project aims to help stakeholders make data-driven decisions by identifying key trends, top-performing products, and high-value customers.
 
 Through interactive visualizations and data analysis, the dashboard answers critical business questions such as:
