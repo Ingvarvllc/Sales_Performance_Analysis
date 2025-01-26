@@ -14,6 +14,7 @@ Through interactive visualizations and data analysis, the dashboard answers crit
 
 ### Table of Contents
 - [Summary Findings](#summary-findings)
+- [Result](#result)
 
 ### Tools
 
@@ -37,6 +38,10 @@ Through interactive visualizations and data analysis, the dashboard answers crit
 
 6. What are the overall trends in sales and customer counts?
 - The "salesdata" and "ForCustomerCount" sheets provide detailed transaction data, enabling customer segmentation analysis.
+
+### Result
+
+![Screenshot 2025-01-26 192803](https://github.com/user-attachments/assets/18aec486-bdd3-44f0-b057-553f7cfd2d95)
 
 ### Summary Findings
 - Top-Selling Products: Phones and chairs are the leading sales categories.
